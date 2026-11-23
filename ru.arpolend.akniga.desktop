@@ -1,0 +1,16 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.arpolend.akniga
+Exec=/usr/bin/ru.arpolend.akniga
+Name=Akniga
+Name[ru]=Акнига
+
+[X-Aurora-Application]
+Orientation=All
+IconMode=Crop
+
+[X-Application]
+Permissions=Audio;Internet
+OrganizationName=ru.arpolend
+ApplicationName=akniga
